@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.local
+
+# Local config and generated runtime files
+.DS_Store
+*.log
+config.json
+config.*backup*.json
+configs/*.json
+!configs/*.example.json
+google_creds.json
+data/whatsapp-auth/
+data/kb/
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE settings
+.vscode/
+.idea/
