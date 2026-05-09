@@ -1,4 +1,4 @@
-# SPXAgent Backend-Only Gemini Branch
+# LeadZenix
 
 Backend-only distribution of the SPX voice stack. This branch ships:
 
